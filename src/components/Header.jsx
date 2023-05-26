@@ -1,4 +1,4 @@
-import {IoMdSearch} from "react-icons/io";
+// import {IoMdSearch} from "react-icons/io";
 // import {BsGithub} from "react-icons/bs";
 
 //passing data to the app component from our input value
