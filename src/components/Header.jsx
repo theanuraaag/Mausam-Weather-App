@@ -1,4 +1,4 @@
-// import {IoMdSearch} from "react-icons/io";
+import {IoMdSearch} from "react-icons/io";
 // import {BsGithub} from "react-icons/bs";
 
 //passing data to the app component from our input value
@@ -33,7 +33,7 @@ function SideBar({ searchValue, error }) {
           <span className="bg-[#91abff] text-white flex-2 text-center justify-center items-center w-20 mt-1 mb-1 mr-10 ml-5 rounded-[20px]"><button>Search</button></span>
         </form>
 
-        {/* <IoMdSearch className="absolute left-2 top-[30%] text-slate-500" /> */}
+        <IoMdSearch className="absolute left-2 top-[30%] text-slate-500" />
        
       </div>
     </header>
