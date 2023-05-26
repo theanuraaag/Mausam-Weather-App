@@ -1,6 +1,14 @@
 ![Application screenshot](screenshot.png)
 
 <br/>
+[Mausam-Weather App](https://mausam-weather-app18.vercel.app/), This app is developed using React.js and Tailwind CSS. User can search locations by city name and observe the weather.
+
+# Mausam - Weather App:
+
+Link: https://mausam-weather-app18.vercel.app/
+
+# APIs
++ Weather data is retrieved from https://www.weatherapi.com/
 
 # Weather Forecast Application with WeatherAPI
 
